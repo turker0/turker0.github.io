@@ -10,6 +10,8 @@ exclude:
   - garth-jekyll-theme.gemspec
 
 theme: garth-jekyll-theme
+remote_theme: daviddarnes/garth
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
